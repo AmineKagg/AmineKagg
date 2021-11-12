@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636736016 source:c:\users\amine\documents\blackandscholes\main.cpp
+	<chrono>
+	<iostream>
+	<cmath>
+
